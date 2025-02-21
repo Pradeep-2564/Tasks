@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-color: #507687;
+}
+.content {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(211, 228, 151);
+    padding: 65px;
+    border-radius: 10px;
+    box-shadow:  5px 5px 15px rgba(235, 226, 226, 0.409);
+}
+button {
+    cursor: pointer;
+    padding: 7px;
+    width: 6vw;
+    border: none;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: lightsalmon;
+}

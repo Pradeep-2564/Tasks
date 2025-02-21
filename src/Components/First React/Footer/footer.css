@@ -1,0 +1,26 @@
+.footer-sec {
+    background-color: #213555;
+}
+
+.footer-sec p {
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+}
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    /* color: white; */
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.4rem;
+}
+.icon a,i {
+    margin-bottom: 15px;
+    color: white;
+
+}
+.icon i:hover {
+    color: #DA498D;
+}

@@ -1,0 +1,12 @@
+.grandchild{
+    background-color:rgb(107, 47, 80);
+}
+.grandchild h4 {
+    color: white;
+}
+.grandchild p {
+    color:fuchsia;
+}
+.grandchild p b {
+    color: red;
+}

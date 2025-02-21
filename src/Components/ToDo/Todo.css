@@ -1,0 +1,16 @@
+* {
+    text-align: center;
+    background-color: lightgreen;
+}
+li{
+    list-style-type: none;
+}
+button{
+    margin-left: 5px;
+    cursor: pointer;
+    border: 1.5px solid black;
+}
+input {
+    border: 1.5px solid black;
+
+}

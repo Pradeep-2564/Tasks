@@ -1,0 +1,20 @@
+.child {
+    color: white;
+}
+.child h4{
+    color: #F72C5B;
+}
+.child b{
+    color: rgb(249, 22, 211);
+}
+.grid-cont {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+
+.grid-cont p{
+    border: 2px solid;
+    padding: 15px;
+    margin: 10px;
+}

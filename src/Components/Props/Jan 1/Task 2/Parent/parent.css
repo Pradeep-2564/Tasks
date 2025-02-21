@@ -1,0 +1,12 @@
+div {
+    text-align: center;
+    background-color: black;
+    height: 85vh;
+}
+h1 {
+    color: white;
+}
+th {
+    background-color: rgb(140, 227, 19);
+    color: black;
+}

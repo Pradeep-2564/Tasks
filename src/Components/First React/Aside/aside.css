@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 11vh;
+    left: 77vw;
+    margin: 60px;
+    box-shadow: 0 0 10px 2px #dca680;
+    padding: 20px;
+    border-radius: 8px;
+}
+.content img {
+    height: 80px;
+    width: 80px;
+}
